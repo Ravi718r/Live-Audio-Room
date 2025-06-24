@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72331849865",
+    "project_id": "live-audio-room-ed984",
+    "storage_bucket": "live-audio-room-ed984.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72331849865:android:0091453e13477d3ac49658",
+        "android_client_info": {
+          "package_name": "com.example.live_audio_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzfy0dY2V-xfNRqoZcqHieE3mhNJEYLro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
